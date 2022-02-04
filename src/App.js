@@ -1,6 +1,6 @@
 import './App.css';
 import { useState } from 'react';
-import About from './components/About';
+// import About from './components/About';
 import Navbar from './components/Navbar';
 import Textform from './components/Textform';
 import Alert from './components/Alert';
